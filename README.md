@@ -8,8 +8,8 @@ A Neovim plugin inspired by the classic Windows 3.1 game [SkiFree](https://en.wi
 
 ```lua
 {
-    'piersolenski/skifree.nvim',
-    cmd = 'SkiFree',
+  'piersolenski/skifree.nvim',
+  cmd = 'SkiFree',
 }
 ```
 
