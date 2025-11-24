@@ -1,6 +1,6 @@
 # 🎿 SkiFree.nvim
 
-A Neovim plugin inspired by the classic Windows 3.1 game [SkiFree](https://en.wikipedia.org/wiki/SkiFree)!
+A Neovim plugin inspired by the classic Windows 3.1 game [SkiFree](https://en.wikipedia.org/wiki/SkiFree).
 
 <https://github.com/user-attachments/assets/6d7102a5-04c3-4cd9-99bb-3755ed3f2d7f>
 
