@@ -44,7 +44,7 @@ use("piersolenski/skifree.nvim")
 - Ski down the mountain avoiding obstacles
 - 🌲 Trees and 🪨 rocks will fuck you up
 - After 2000m, the 👹 yeti appears
-- Try to ski as far as possible
+- Try to ski as far as possible!
 
 ## 🕹️ Play the Original
 
