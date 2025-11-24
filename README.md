@@ -45,3 +45,7 @@ use("piersolenski/skifree.nvim")
 - 🌲 Trees and 🪨 rocks will fuck you up
 - After 2000m, the 👹 yeti appears
 - Try to ski as far as possible
+
+## 🕹️ Play the Original
+
+Want to play the classic? [Play SkiFree online](https://classicreload.com/win3x-skifree.html)
